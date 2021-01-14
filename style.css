@@ -1,0 +1,94 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    text-transform: uppercase;
+}
+.header-area{
+    background-color: #FFFBF0;
+    padding-bottom: 100px;
+}
+.header-area img{
+    width: 300px;
+}
+li{
+    padding: 20px;
+}
+.bannar h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.text-highlight{
+    color: #FABE4C;
+}
+.penguin-btn{
+    background-color: #8CA623;
+    color: white;
+    padding: 10px 20px;
+}
+.card_text{
+    margin-top: 10px;
+}
+.card_text p{
+    color:#D3D0C8;
+    font-size: 14px;
+}
+.penguin-btn i{
+    margin-right: 10px;
+}
+.image_area img{
+    width: 50%;    
+}
+.card_img{
+    background-color: #F1F1F1;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.img-top{
+    width: 200px;
+    height: 300px;
+}
+.woman-card{
+    border: 0;
+}
+.card_btn{
+    background-color: #98B135;
+    color: white;
+    padding: 10px 20px;
+}
+.foot_card img{
+    width: 100px;
+    height: 100px;
+}
+.foot_card{
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    height: 130px;
+}
+.foot_card p{
+    font-size: 14px;
+}
+.footer-area{
+    padding-bottom: 100px;
+}
+.foot_img img{
+    width: 100%;
+    padding-top: 100px;
+}
+.contuct-us{
+    background-color: antiquewhite;
+    padding: 30px ;
+    margin-bottom:100px ;
+}
+footer{
+    text-align: center;
+    background-color: whitesmoke;    
+}
+footer p{
+    padding: 10px;
+}
+input{
+    padding: 8px;
+}
